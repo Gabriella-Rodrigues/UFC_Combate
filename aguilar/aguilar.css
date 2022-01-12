@@ -1,0 +1,69 @@
+body {
+    background-image: url("arena.jpg");
+}
+.imagem-lutadora {
+    margin-top: 5%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.nome {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgba(0, 0, 0, 0.336);
+}
+.paragrafo {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgba(0, 0, 0, 0.336);
+}
+.voltar {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 3%;
+    margin-left: 42%;
+    margin-right: 42%;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 10px;
+    text-transform: uppercase;
+
+};
+.voltar a {
+    text-decoration: none;
+    color: palevioletred;
+}
+.voltar a:hover {
+    color: palevioletred;
+    text-decoration: underline;
+}
+.iniciar {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 3%;
+    margin-left: 42%;
+    margin-right: 42%;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 10px;
+    text-transform: uppercase;
+
+}
+.iniciar a {
+    text-decoration: none;
+    color: palevioletred;
+}
+.iniciar a:hover {
+    color: palevioletred;
+    text-decoration: underline;
+}
