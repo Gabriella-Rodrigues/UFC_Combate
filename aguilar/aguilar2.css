@@ -6,7 +6,7 @@ body {
     text-align: center;
     font-size: 50px;
     font-weight: bold;
-    margin-top: 7%;
+    margin-top: 4%;
     margin-left: 20%;
     margin-right: 20%;
     background-color: rgba(0, 0, 0, 0.096);
@@ -14,7 +14,7 @@ body {
 .paragrafo1 {
     color: white;
     text-align: center;
-    font-size: 40px;
+    font-size: 37px;
     margin-top: 3%;
     margin-left: 20%;
     margin-right: 20%;
@@ -23,7 +23,7 @@ body {
 .paragrafo2 {
     color: white;
     text-align: center;
-    font-size: 40px;
+    font-size: 37px;
     margin-top: 3%;
     margin-left: 20%;
     margin-right: 20%;
@@ -32,7 +32,7 @@ body {
 .paragrafo3 {
     color: white;
     text-align: center;
-    font-size: 40px;
+    font-size: 37px;
     margin-top: 3%;
     margin-left: 20%;
     margin-right: 20%;
@@ -41,9 +41,30 @@ body {
 .paragrafo4 {
     color: white;
     text-align: center;
-    font-size: 40px;
+    font-size: 37px;
     margin-top: 3%;
     margin-left: 20%;
     margin-right: 20%;
     background-color: rgba(0, 0, 0, 0.486);
+}
+.escolher {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 2%;
+    margin-left: 42%;
+    margin-right: 42%;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 10px;
+    text-transform: uppercase;
+
+}
+.escolher a {
+    text-decoration: none;
+    color: palevioletred;
+}
+.escolher a:hover {
+    color: palevioletred;
+    text-decoration: underline;
 }

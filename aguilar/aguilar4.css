@@ -4,9 +4,9 @@ body {
 .fase {
     color: white;
     text-align: center;
-    font-size: 50px;
+    font-size: 100px;
     font-weight: bold;
-    margin-top: 4%;
+    margin-top: 7%;
     margin-left: 20%;
     margin-right: 20%;
     background-color: rgba(0, 0, 0, 0.096);
@@ -14,7 +14,7 @@ body {
 .paragrafo1 {
     color: white;
     text-align: center;
-    font-size: 40px;
+    font-size: 32px;
     margin-top: 3%;
     margin-left: 20%;
     margin-right: 20%;
@@ -23,35 +23,17 @@ body {
 .paragrafo2 {
     color: white;
     text-align: center;
-    font-size: 40px;
+    font-size: 32px;
     margin-top: 3%;
     margin-left: 20%;
     margin-right: 20%;
     background-color: rgba(0, 0, 0, 0.486);
 }
-.paragrafo3 {
-    color: white;
-    text-align: center;
-    font-size: 40px;
-    margin-top: 3%;
-    margin-left: 20%;
-    margin-right: 20%;
-    background-color: rgba(0, 0, 0, 0.486);
-}
-.paragrafo4 {
-    color: white;
-    text-align: center;
-    font-size: 40px;
-    margin-top: 3%;
-    margin-left: 20%;
-    margin-right: 20%;
-    background-color: rgba(0, 0, 0, 0.486);
-}
-.escolher {
+.voltar {
     color: white;
     text-align: center;
     font-size: 35px;
-    margin-top: 2%;
+    margin-top: 5%;
     margin-left: 42%;
     margin-right: 42%;
     box-sizing: border-box;
@@ -60,11 +42,11 @@ body {
     text-transform: uppercase;
 
 }
-.escolher a {
+.voltar a {
     text-decoration: none;
     color: palevioletred;
 }
-.escolher a:hover {
+.voltar a:hover {
     color: palevioletred;
     text-decoration: underline;
 }
