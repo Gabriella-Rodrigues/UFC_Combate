@@ -25,45 +25,26 @@ body {
     margin-right: 20%;
     background-color: rgba(0, 0, 0, 0.486);
 }
-.voltar {
+.botoes {
+    display: flex;
+    justify-content: center;
+}
+a {
+    text-decoration: none;
+    color: palevioletred;
     color: white;
     text-align: center;
-    font-size: 35px;
-    margin-top: 3%;
-    margin-left: 42%;
-    margin-right: 42%;
+    font-size: 30px;
     box-sizing: border-box;
     border: 2px solid white;
     border-radius: 10px;
     text-transform: uppercase;
-
+    padding: 1%;
 }
-.voltar a {
-    text-decoration: none;
-    color: palevioletred;
-}
-.voltar a:hover {
+a:hover {
     color: palevioletred;
     text-decoration: underline;
 }
 .iniciar {
-    color: white;
-    text-align: center;
-    font-size: 35px;
-    margin-top: 3%;
-    margin-left: 42%;
-    margin-right: 42%;
-    box-sizing: border-box;
-    border: 2px solid white;
-    border-radius: 10px;
-    text-transform: uppercase;
-
-}
-.iniciar a {
-    text-decoration: none;
-    color: palevioletred;
-}
-.iniciar a:hover {
-    color: palevioletred;
-    text-decoration: underline;
+    margin-left: 10%;
 }
